@@ -18,7 +18,7 @@
 
 - **Prompt Engineering Repository:** [learn-low-code-agentic-ai - Prompt Engineering](https://github.com/panaversity/learn-low-code-agentic-ai/tree/main/00_prompt_engineering)
 - **LLM Arena:** [Chatbot Arena - LLM Benchmark](https://chat.lmsys.org/)
-- **Claude Code Setup Guide:** [Free Claude Setup](https://agentfactory.panaversity.org/docs/AI-Tool-Landscape/claude-code-features-and-workflows/free-claude-setup)
+- **Claude Code Setup Guide:** [Free Claude Setup](https://agentfactory.panaversity.org/docs/General-Agents-Foundations/general-agents/free-claude-setup)
 - **MCP Documentation:** [Model Context Protocol](https://modelcontextprotocol.io/)
 
 ## 📝 Key Concepts

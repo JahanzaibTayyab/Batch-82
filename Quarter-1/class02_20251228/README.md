@@ -39,7 +39,7 @@ git config --global user.email
 
 ## 📖 Reference Links
 
-- **Claude Code Setup Guide:** [Free Claude Setup](https://agentfactory.panaversity.org/docs/AI-Tool-Landscape/claude-code-features-and-workflows/free-claude-setup)
+- **Claude Code Setup Guide:** [Free Claude Setup](https://agentfactory.panaversity.org/docs/General-Agents-Foundations/general-agents/free-claude-setup)
 - **Git Configuration Guide:** [Git Official Documentation](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ---
