@@ -1,9 +1,6 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch",
-      "WebFetch(domain:docs.anthropic.com)",
-      "Bash(find:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)"
     ]
