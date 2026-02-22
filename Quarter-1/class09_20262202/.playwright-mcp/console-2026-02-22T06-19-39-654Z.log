@@ -1,0 +1,5 @@
+[    3249ms] [WARNING] Error while trying to use the following icon from the Manifest: https://www.kfcpakistan.com/logo192.png (Download error or resource isn't a valid image) @ https://www.kfcpakistan.com/menu:0
+[   10667ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 792834067526378. @ https://connect.facebook.net/en_US/fbevents.js:173
+[   11133ms] [ERROR] Attestation check for Attribution Reporting on https://www.facebook.com failed. @ https://www.kfcpakistan.com/menu:0
+[   11369ms] [ERROR] Attestation check for Attribution Reporting on https://www.google-analytics.com failed. @ https://www.kfcpakistan.com/menu:0
+[   11369ms] [ERROR] Attestation check for Attribution Reporting on https://www.google-analytics.com failed. @ https://www.kfcpakistan.com/menu:0

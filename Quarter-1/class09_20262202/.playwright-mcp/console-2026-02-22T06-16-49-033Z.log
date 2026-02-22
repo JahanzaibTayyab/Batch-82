@@ -1,0 +1,4 @@
+[    6318ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.kfcpakistan.com/api/menu/banners:0
+[    6731ms] [WARNING] Error while trying to use the following icon from the Manifest: https://www.kfcpakistan.com/logo192.png (Download error or resource isn't a valid image) @ https://www.kfcpakistan.com/:0
+[   31755ms] [ERROR] Error checking geolocation permission: GeolocationPositionError @ https://www.kfcpakistan.com/static/js/main.9f9bae96.js:0
+[   31755ms] [ERROR] Error getting current location: GeolocationPositionError @ https://www.kfcpakistan.com/static/js/main.9f9bae96.js:0
