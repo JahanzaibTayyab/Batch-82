@@ -3,7 +3,11 @@
     "allow": [
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "WebFetch(domain:agentfactory.panaversity.org)"
+      "WebFetch(domain:agentfactory.panaversity.org)",
+      "Bash(find:*)",
+      "Bash(pnpm create:*)",
+      "Bash(rm:*)",
+      "Bash(pnpm build:*)"
     ]
   }
 }
