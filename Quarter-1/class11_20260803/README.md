@@ -368,3 +368,12 @@ Remember: **General Agents BUILD Custom Agents.** SDD is how you orchestrate com
 ---
 
 _Class notes compiled from [The AI Agent Factory](https://agentfactory.panaversity.org/) — Chapter 5: Spec-Driven Development with Claude Code (updated Mar 9, 2026)._
+
+---
+
+## Short WhatsApp Message
+
+**Class 11 – Spec-Driven Development**  
+Covered: why specs beat vibe coding (context loss, assumption drift, pattern violations), the three levels (Spec-First, Spec-Anchored, Spec-as-Source), and key prompt patterns.  
+Watch: https://youtu.be/nkeoGxTqHoc  
+Notes: Quarter-1/class11_20260803/README.md
